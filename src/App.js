@@ -8,6 +8,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Hello all welcome to react application</h1>
+        <h1>
+          Hi everyone I am Md Firoz Alam
+        </h1>
         {/* <p>by VSCharan</p> */}
       </header>
     </div>
